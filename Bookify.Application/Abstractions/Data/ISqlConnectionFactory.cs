@@ -3,7 +3,7 @@ using System.Data;
 
 namespace Bookify.Application.Abstractions.Data;
 
-internal interface ISqlConnectionFactory
+public interface ISqlConnectionFactory
 {
     IDbConnection CreateConnection();
 }
