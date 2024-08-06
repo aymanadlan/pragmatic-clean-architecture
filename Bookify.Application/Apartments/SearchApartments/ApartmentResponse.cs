@@ -1,5 +1,4 @@
 ﻿
-using Bookify.Domain.Apartments;
 
 namespace Bookify.Application.Apartments.SearchApartments;
 internal class ApartmentResponse
